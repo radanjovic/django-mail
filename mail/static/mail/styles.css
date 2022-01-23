@@ -1,0 +1,37 @@
+textarea {
+    min-height: 400px;
+}
+
+h3 {
+    text-align: center;
+}
+
+.emails_view {
+    border: 1px solid rgba(46, 45, 45, 0.575);
+    border-radius: 8px;
+    padding: 5px;
+    cursor: pointer;
+    margin: 3px;
+}
+
+.emails_SandR {
+    display: inline-block;
+    width: 30%;
+}
+
+
+.emails_timestamp {
+    float: right;
+}
+
+.email_body {
+    white-space: pre-wrap;
+    text-align: justify;
+}
+
+#reply_button {
+    margin-right: 2.5px;
+}
+#archive_button {
+    margin-left: 2.5px;
+}
